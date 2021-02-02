@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"@font-face {\r\n\tfont-family: GeorgiaRegular;\r\n  \tsrc: url(\"fonts/ofont.ru_Georgia.ttf\");\r\n}\r\n@font-face {\r\n\tfont-family: Socialico;\r\n  \tsrc: url(\"fonts/Socialico.ttf\");\r\n}\r\nbody {\r\n\twidth: 960px;\r\n\tmargin: 0 auto;\r\n}\r\n.container {\r\n\tpadding: 0 30px;\r\n}\r\n.topMargen {\r\n\theight: 5px;\r\n\tbackground: #81b300;\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,UAAU,CACT,WAAW,CAAE,cAAc,CACzB,GAAG,CAAE,iCAAiC,CAEzC,UAAU,CACT,WAAW,CAAE,SAAS,CACpB,GAAG,CAAE,0BAA0B,gDAElC,AAAA,IAAI,AAAC,CACJ,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,MAAM,CACd,gDACD,AAAA,UAAU,AAAC,CACV,OAAO,CAAE,MAAM,CACf,gDACD,AAAA,UAAU,AAAC,CACV,MAAM,CAAE,GAAG,CACX,UAAU,CAAE,OAAO,CACnB"
+}
