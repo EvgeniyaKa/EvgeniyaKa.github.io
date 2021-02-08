@@ -1,19 +1,19 @@
 
 @font-face {
     font-family:'Open Sans';
-    src: url("fonts/OpenSans-Light.woff2") format("woff2"),
-         url("fonts/OpenSans-Light.woff") format("woff");
+    src: url(../fonts/OpenSans-Light.woff2) format("woff2"),
+         url(../fonts/OpenSans-Light.woff) format("woff");
   }
 @font-face {
     font-family:'SF Pro Display';
-    src: url("fonts/SFProDisplay-Light.woff2") format("woff2"),
-         url("fonts/SFProDisplay-Light.woff") format("woff");
+    src: url(../fonts/SFProDisplay-Light.woff2) format("woff2"),
+         url(../fonts/SFProDisplay-Light.woff) format("woff");
   }
 @font-face {
     font-family: 'SF Pro Text';
     src: 
-         url("fonts/SFUIText-Light.woff2") format("woff2"), 
-         url("fonts/SFUIText-Light.woff") format("woff");
+         url(../fonts/SFUIText-Light.woff2) format("woff2"), 
+         url(../fonts/SFUIText-Light.woff) format("woff");
 }
 body,
 button,
@@ -545,3 +545,6 @@ h1, p {
 }
 
 
+
+
+/*# sourceMappingURL=main.css.map*/
