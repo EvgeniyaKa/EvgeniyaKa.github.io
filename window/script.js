@@ -18063,7 +18063,6 @@ var images = function images() {
       imgWindow.style.display = 'flex';
       var path = target.parentNode.getAttribute('href');
       imgBig.setAttribute('src', path);
-      document.body.style.overflow = "hidden";
     }
 
     if (target && target.matches('div.popup')) {
