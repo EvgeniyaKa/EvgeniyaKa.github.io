@@ -855,7 +855,7 @@ window.addEventListener('DOMContentLoaded', () => {
         field: '.offer__slider-inner'
     });
     (0,_modules_tabs__WEBPACK_IMPORTED_MODULE_5__.default)('.tabheader__item', '.tabcontent', '.tabheader__items', 'tabheader__item_active');
-    (0,_modules_timer__WEBPACK_IMPORTED_MODULE_6__.default)('.timer', '2021-07-20');
+    (0,_modules_timer__WEBPACK_IMPORTED_MODULE_6__.default)('.timer', '2021-10-27');
 });
 })();
 
